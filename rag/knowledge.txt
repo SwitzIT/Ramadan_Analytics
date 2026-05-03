@@ -1,0 +1,6 @@
+Net Sales Logic: Invoices and Cancel of CN are positive values. Fresh GR, Invoice Cancel, and Expiry GR are negative values. Net Sales is the sum of these adjusted values.
+Pre-Ramadan Period: January 18, 2026, to February 17, 2026.
+Ramadan Period: February 18, 2026, to March 20, 2026.
+Drop Classification: Stable (<20%), Moderate (20-40%), High (40-60%), Critical (>60%).
+Ramadan Impact: Sales often drop due to changed consumer behavior, fasting, and logistical shifts during the holy month.
+Target Location: The data focus is on shops in Kolkata (Calcutta).
